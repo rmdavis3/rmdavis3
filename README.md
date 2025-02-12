@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 #
 
 ### 🏆 Certifications
-<img align="left" alt="Java" width="125px" style="padding-right:10px;" src="https://images.credly.com/size/340x340/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png"/>
-<img align="left" alt="Java" width="125px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rmdavis3/rmdavis3/refs/heads/main/badges/Cu%CC%81ram%20V8%20Certification%20Badge.png"/>
-<img align="left" alt="Java" width="125px" style="padding-right:10px;" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
-<img align="left" alt="Java" width="125px" style="padding-right:10px;" src="https://images.credly.com/size/340x340/images/be30069e-e881-4e07-b804-45f2af276c62/58000205_fix.png"/>
-<img align="left" alt="Java" width="125px" style="padding-right:10px;" src="https://images.credly.com/size/340x340/images/ddb0cf98-c803-4cfe-b512-a0aeff57e23a/Communication-Care-Satisfaction-Professional.png"/>
-
-<br /><br /><br /><br /><br /><br /><br />
+-  <a href="https://example.com](https://merative-curam-training.moodlecloud.com/badges/badge.php?hash=87106dca51b67930d9999ef9ab5070a9d40152bc">Cúram V8.X Certified Business Analyst</a>
+-  <a href="https://verify.openedg.org/?id=Sa8j.ZbC0.7hQQ">PCEP – Certified Entry-Level Python Programmer</a>
+-  <a href="https://learn.microsoft.com/en-us/users/rdavis-2273/credentials/d549f632ae0263da?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified: Azure Fundamentals</a>
+-  <a href="https://www.credly.com/badges/297629bb-9cca-4f16-8581-7d8fa8dc1c87">Cúram V7.X Certified Business Analyst</a>
+-  <a href="https://www.credly.com/badges/9a7d60e6-86d9-4706-be2c-93d17f24bf79">Communication Care Satisfaction Professional</a>
 
 #
 
