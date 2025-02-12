@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 #
 
 ### 🏆 Certifications
--  <a href="https://example.com](https://merative-curam-training.moodlecloud.com/badges/badge.php?hash=87106dca51b67930d9999ef9ab5070a9d40152bc">Cúram V8.X Certified Business Analyst</a>
+-  <a href="https://merative-curam-training.moodlecloud.com/badges/badge.php?hash=87106dca51b67930d9999ef9ab5070a9d40152bc">Cúram V8.X Certified Business Analyst</a>
 -  <a href="https://verify.openedg.org/?id=Sa8j.ZbC0.7hQQ">PCEP – Certified Entry-Level Python Programmer</a>
 -  <a href="https://learn.microsoft.com/en-us/users/rdavis-2273/credentials/d549f632ae0263da?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified: Azure Fundamentals</a>
 -  <a href="https://www.credly.com/badges/297629bb-9cca-4f16-8581-7d8fa8dc1c87">Cúram V7.X Certified Business Analyst</a>
